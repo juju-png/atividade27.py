@@ -1,0 +1,5 @@
+frase = str(input('Digite um nome')).upper().replace(" ","")
+if frase == invertido:
+    print("palíndromo")
+else:
+    print("não é palíndromo")
